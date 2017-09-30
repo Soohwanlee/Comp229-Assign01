@@ -59,7 +59,7 @@ I enjoy learning new technology to broaden my bandwidth to understand different 
             </div>
         </div>
           <hr />
-                        <div class="row">
+        <div class="row">
             <div class="col-md-3">
                 <img src="Assets/images/samsung.jpg" alt="samsung" class="img-rounded img-responsive" width="300" height="150">
             </div>
