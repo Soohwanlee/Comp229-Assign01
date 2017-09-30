@@ -200,8 +200,11 @@
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
     <Content Include="Assets\images\BrandLogo.png" />
+    <Content Include="Assets\images\facebook.png" />
     <Content Include="Assets\images\hero.jpg" />
     <Content Include="Assets\images\hotelnow.png" />
+    <Content Include="Assets\images\insta.png" />
+    <Content Include="Assets\images\linkedin.png" />
     <Content Include="Assets\images\logo.png" />
     <Content Include="Assets\images\profile.png" />
     <Content Include="Assets\images\samsung.jpg" />
