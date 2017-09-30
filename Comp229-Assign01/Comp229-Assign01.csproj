@@ -201,7 +201,11 @@
     <Content Include="Account\VerifyPhoneNumber.aspx" />
     <Content Include="Assets\images\BrandLogo.png" />
     <Content Include="Assets\images\hero.jpg" />
+    <Content Include="Assets\images\hotelnow.png" />
     <Content Include="Assets\images\logo.png" />
+    <Content Include="Assets\images\profile.png" />
+    <Content Include="Assets\images\samsung.jpg" />
+    <Content Include="Assets\images\SSLC.png" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
